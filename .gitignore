@@ -1,0 +1,12 @@
+# Runtime log produced by the tool
+surface-charge.log
+*.log
+
+# Build output
+/release/
+*.zip
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
