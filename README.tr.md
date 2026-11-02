@@ -6,8 +6,11 @@
 ![Windows 11 ARM64](https://img.shields.io/badge/Windows%2011-ARM64-0078D6?logo=windows11&logoColor=white)
 ![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
 [![Yıldız](https://img.shields.io/github/stars/TonbiLX/surface-charge-limit?label=y%C4%B1ld%C4%B1z&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/stargazers)
+[![Tartışmalar](https://img.shields.io/github/discussions/TonbiLX/surface-charge-limit?label=tart%C4%B1%C5%9Fma&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/discussions)
 
 **Surface'in "%80'de şarjı durdur" akıllı şarj sınırını — Surface uygulaması olmadan — aç/kapat.**
+
+> 👋 **Aynı %80 sorunu mu?** [**Buradan başla** konusunu](https://github.com/TonbiLX/surface-charge-limit/discussions/1) oku ya da [Tartışmalar'da](https://github.com/TonbiLX/surface-charge-limit/discussions) sor.
 
 🇬🇧 **[Click for the English readme →](README.md)**
 

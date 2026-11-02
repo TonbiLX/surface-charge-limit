@@ -6,8 +6,11 @@
 ![Windows 11 ARM64](https://img.shields.io/badge/Windows%2011-ARM64-0078D6?logo=windows11&logoColor=white)
 ![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/TonbiLX/surface-charge-limit?color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/stargazers)
+[![Discussions](https://img.shields.io/github/discussions/TonbiLX/surface-charge-limit?color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/discussions)
 
 **Turn the Surface "charge to 80%" smart-charging limit on and off — without the Surface app.**
+
+> 👋 **Same 80% problem?** Read the [**Start here** discussion](https://github.com/TonbiLX/surface-charge-limit/discussions/1) or ask in [Discussions](https://github.com/TonbiLX/surface-charge-limit/discussions).
 
 🇹🇷 **[Türkçe benioku için tıklayın →](README.tr.md)**
 
