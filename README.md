@@ -1,5 +1,12 @@
 # Surface Charge Limit
 
+[![Latest release](https://img.shields.io/github/v/release/TonbiLX/surface-charge-limit?label=release&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/TonbiLX/surface-charge-limit/total?color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/releases)
+[![License: MIT](https://img.shields.io/github/license/TonbiLX/surface-charge-limit?color=4A7ADB)](LICENSE)
+![Windows 11 ARM64](https://img.shields.io/badge/Windows%2011-ARM64-0078D6?logo=windows11&logoColor=white)
+![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/TonbiLX/surface-charge-limit?color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/stargazers)
+
 **Turn the Surface "charge to 80%" smart-charging limit on and off — without the Surface app.**
 
 🇹🇷 **[Türkçe benioku için tıklayın →](README.tr.md)**
@@ -159,6 +166,15 @@ Community tool, **not affiliated with Microsoft**. It uses the same documented b
 Surface app uses, writes nothing persistent to your system, and is fully reversible — but it is
 provided **as is**, without warranty (see [LICENSE](LICENSE)). Charging to 100% all the time can
 increase long-term battery wear; that trade-off is yours to make.
+
+## Keywords
+
+If you searched for any of these, you're in the right place:
+
+> Surface Pro battery stuck at 80% · Surface won't charge past 80% · how to charge Surface to 100% ·
+> disable Surface Smart Charging · Surface Battery & charging card missing · Surface app no battery
+> option · Surface Pro 12 Snapdragon battery limit · remove 80% charge cap · battery charge limit
+> Windows 11 · Surface battery health / limit toggle · ARM64 Surface battery control.
 
 ## License
 

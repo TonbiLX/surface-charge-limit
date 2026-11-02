@@ -1,5 +1,12 @@
 # Surface Şarj Limiti
 
+[![Son sürüm](https://img.shields.io/github/v/release/TonbiLX/surface-charge-limit?label=s%C3%BCr%C3%BCm&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/releases/latest)
+[![İndirme](https://img.shields.io/github/downloads/TonbiLX/surface-charge-limit/total?label=indirme&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/releases)
+[![Lisans: MIT](https://img.shields.io/github/license/TonbiLX/surface-charge-limit?label=lisans&color=4A7ADB)](LICENSE)
+![Windows 11 ARM64](https://img.shields.io/badge/Windows%2011-ARM64-0078D6?logo=windows11&logoColor=white)
+![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
+[![Yıldız](https://img.shields.io/github/stars/TonbiLX/surface-charge-limit?label=y%C4%B1ld%C4%B1z&color=4A7ADB)](https://github.com/TonbiLX/surface-charge-limit/stargazers)
+
 **Surface'in "%80'de şarjı durdur" akıllı şarj sınırını — Surface uygulaması olmadan — aç/kapat.**
 
 🇬🇧 **[Click for the English readme →](README.md)**
